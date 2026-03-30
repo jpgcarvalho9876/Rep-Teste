@@ -2,7 +2,7 @@
 #include <cmath>
 #include <iostream>
 #include <iomanip>
-
+double a = 3;
 Carro::Carro(double x, double y, double th){
     this->x = x;
     this->y = y;
@@ -73,5 +73,5 @@ Carro::Carro(double x, double y, double th){
 
         }
     
-
+//feijao com farinha
 }
